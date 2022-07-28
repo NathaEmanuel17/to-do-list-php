@@ -1,6 +1,7 @@
 # Aplicação simples to-do list:
 
 1º execulte as querys necessarias no seu SGBD:
+
 2º no arquivo conexao.php passe as configurações do seu sgbd:
 
 exemplo: 
